@@ -1,0 +1,6 @@
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\obj\Debug\Lesson1_ex3_meth1.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\obj\Debug\Lesson1_ex3_meth1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\bin\Debug\Lesson1_ex3_meth1.dll
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\bin\Debug\Lesson1_ex3_meth1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\obj\Debug\Lesson1_ex3_meth1.dll
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3_meth1\obj\Debug\Lesson1_ex3_meth1.pdb

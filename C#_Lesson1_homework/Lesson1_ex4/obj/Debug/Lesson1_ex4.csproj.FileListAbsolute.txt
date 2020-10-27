@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\bin\Debug\Lesson1_ex4.exe.config
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\bin\Debug\Lesson1_ex4.exe
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\bin\Debug\Lesson1_ex4.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\obj\Debug\Lesson1_ex4.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\obj\Debug\Lesson1_ex4.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\obj\Debug\Lesson1_ex4.exe
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex4\obj\Debug\Lesson1_ex4.pdb
