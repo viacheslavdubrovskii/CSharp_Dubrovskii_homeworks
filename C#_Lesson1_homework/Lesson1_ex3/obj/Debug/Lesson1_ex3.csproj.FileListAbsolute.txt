@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\obj\Debug\Lesson1_ex3.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\obj\Debug\Lesson1_ex3.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\bin\Debug\Lesson1_ex3.exe.config
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\bin\Debug\Lesson1_ex3.exe
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\bin\Debug\Lesson1_ex3.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\obj\Debug\Lesson1_ex3.exe
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\obj\Debug\Lesson1_ex3.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\bin\Debug\Lesson1_ex3_meth1.dll
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\bin\Debug\Lesson1_ex3_meth1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Lesson1_ex3\obj\Debug\Lesson1_ex3.csproj.CopyComplete

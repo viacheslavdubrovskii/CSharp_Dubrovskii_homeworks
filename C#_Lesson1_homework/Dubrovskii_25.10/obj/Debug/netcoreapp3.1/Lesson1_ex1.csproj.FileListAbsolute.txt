@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.exe
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.deps.json
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.runtimeconfig.json
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.dll
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\bin\Debug\netcoreapp3.1\Lesson1_ex1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.dll
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\Dubrovskii_25.10\Dubrovskii_25.10\obj\Debug\netcoreapp3.1\Lesson1_ex1.genruntimeconfig.cache
