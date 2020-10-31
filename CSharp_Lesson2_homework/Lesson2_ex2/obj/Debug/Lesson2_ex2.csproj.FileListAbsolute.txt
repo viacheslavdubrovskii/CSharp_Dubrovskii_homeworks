@@ -1,0 +1,6 @@
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\bin\Debug\Lesson2_ex2.exe.config
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\bin\Debug\Lesson2_ex2.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\bin\Debug\Lesson2_ex2.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\obj\Debug\Lesson2_ex2.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\obj\Debug\Lesson2_ex2.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson2_homework\Lesson2_ex2\obj\Debug\Lesson2_ex2.pdb
