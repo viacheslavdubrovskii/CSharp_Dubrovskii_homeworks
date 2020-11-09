@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\obj\Debug\Lesson5_ex4.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\obj\Debug\Lesson5_ex4.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\bin\Debug\Lesson5_ex4.exe.config
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\bin\Debug\Lesson5_ex4.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\bin\Debug\Lesson5_ex4.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\obj\Debug\Lesson5_ex4.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\CSharp_Lesson5_homework\Lesson5_ex4\obj\Debug\Lesson5_ex4.pdb
