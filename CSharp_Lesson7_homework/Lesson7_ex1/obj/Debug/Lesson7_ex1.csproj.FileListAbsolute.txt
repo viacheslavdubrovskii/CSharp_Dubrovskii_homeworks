@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\bin\Debug\Lesson7_ex1.exe.config
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\bin\Debug\Lesson7_ex1.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\bin\Debug\Lesson7_ex1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.Form1.resources
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.Properties.Resources.resources
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.exe
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\GeekBrains Homeworks\Lesson7_ex1\Lesson7_ex1\obj\Debug\Lesson7_ex1.Form2.resources
